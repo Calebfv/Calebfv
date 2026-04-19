@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Caleb 👋
 
-<!--
-**Calebfv/Calebfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a strong focus on technical efficiency and performance. I enjoy solving complex logic problems, building modern web applications, and optimizing system environments.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python, C++, JavaScript (ES6+), SQL.
+* **Frontend:** React, HTML5, CSS3.
+* **System & Tools:** Git, GitHub, CMD/Terminal, System Optimization & Networking.
+
+### 🚀 What I do
+- **Full Stack Development:** Building responsive and dynamic web interfaces with React.
+- **Scripting & Automation:** Developing Python scripts to streamline repetitive tasks and manage data.
+- **Logic & Performance:** Implementing efficient algorithms in C++.
+
+### 📊 GitHub Stats
+![Caleb's Stats](https://github-readme-stats.vercel.app/api?username=Calebfv&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebfv&layout=compact&theme=tokyonight)
+
+### 📩 Connect with me
+* **Email:** [inventiwebcr@gmail.com](mailto:inventiwebcr@gmail.com)
+* **Status:** Open to technical collaborations and professional opportunities.
