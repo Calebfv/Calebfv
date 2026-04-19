@@ -17,7 +17,7 @@ Software Developer with a strong focus on technical efficiency and performance. 
 ![Estadísticas de Caleb](https://github-readme-stats.vercel.app/api?username=Calebfv&show_icons=true&theme=tokyonight&count_private=true)
 
 ### 💻 Lenguajes más usados
-![Lenguajes de Caleb](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebfv&layout=compact&theme=tokyonight&count_private=true)
+![Lenguajes de Caleb](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebfv&layout=compact&theme=tokyonight&count_private=true&cache=1)
 
 ### 📩 Connect with me
 * **Email:** [inventiwebcr@gmail.com](mailto:inventiwebcr@gmail.com)
