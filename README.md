@@ -14,8 +14,10 @@ Software Developer with a strong focus on technical efficiency and performance. 
 - **Logic & Performance:** Implementing efficient algorithms in C++.
 
 ### 📊 GitHub Stats
-![Caleb's Stats](https://github-readme-stats.vercel.app/api?username=Calebfv&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebfv&layout=compact&theme=tokyonight)
+![Estadísticas de Caleb](https://github-readme-stats.vercel.app/api?username=Calebfv&show_icons=true&theme=tokyonight&count_private=true)
+
+### 💻 Lenguajes más usados
+![Lenguajes de Caleb](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebfv&layout=compact&theme=tokyonight&count_private=true)
 
 ### 📩 Connect with me
 * **Email:** [inventiwebcr@gmail.com](mailto:inventiwebcr@gmail.com)
