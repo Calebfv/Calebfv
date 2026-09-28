@@ -1,9 +1,9 @@
 <div align="center">
 
 # Caleb
-### Systems & Software Engineer
+### Systems Architect & Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Rendimiento+de+bajo+nivel+%7C+Backend+robusto;Rust+%7C+C%2B%2B+%7C+PHP+%7C+Python+%7C+TypeScript;Automatizaci%C3%B3n+CLI+%26+Arquitectura+de+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Ingenier%C3%ADa+de+software+de+alto+rendimiento;Rust+%7C+C%2B%2B+%7C+PHP+%7C+Python+%7C+TypeScript;Sistemas+r%C3%A1pidos%2C+seguros+y+escalables;Arquitectura+backend+de+nivel+profesional" alt="Typing SVG" />
 
 <br/>
 
@@ -13,17 +13,13 @@
 <img src="https://img.shields.io/badge/Linux-Power_User-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Estado-Disponible-22C55E?style=for-the-badge" />
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=38BDF8&style=flat-square" alt="Visitas" />
-
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero de software enfocado en **sistemas, rendimiento y backend**. Diseño y construyo software donde la eficiencia, la seguridad de memoria y la mantenibilidad importan: desde utilidades CLI hasta APIs y arquitecturas web escalables.
+Ingeniero de software especializado en **sistemas de alto rendimiento y arquitectura backend**. Construyo software rápido, seguro y escalable, donde cada decisión técnica está pensada para el máximo rendimiento y la máxima confiabilidad: desde herramientas CLI hasta APIs y plataformas web de gran escala.
 
 ```rust
 struct Caleb {
@@ -45,9 +41,9 @@ impl Caleb {
 }
 ```
 
-- 🔭 Herramientas de bajo nivel, automatización y servicios backend
-- ⚙️ Concurrencia segura, optimización de memoria y diseño de APIs limpias
-- 🌎 Trabajo remoto desde Costa Rica
+- 🚀 Software de alto rendimiento: rápido, eficiente y seguro por diseño
+- ⚙️ Dominio de concurrencia, gestión de memoria y diseño de APIs
+- 🌎 Trabajo remoto desde Costa Rica para clientes exigentes
 
 ---
 
@@ -73,7 +69,7 @@ impl Caleb {
   <tr>
     <td width="33%" valign="top">
       <h3>🦀 Sistemas de alto rendimiento</h3>
-      Rust y C++ para software donde cada ciclo de CPU y cada byte cuentan: concurrencia segura, bajo consumo de recursos y latencia mínima.
+      Rust y C++ para software donde la velocidad y la eficiencia son innegociables: concurrencia segura, consumo mínimo de recursos y latencia ultrabaja.
     </td>
     <td width="33%" valign="top">
       <h3>🏗️ Arquitectura backend</h3>
@@ -100,7 +96,7 @@ impl Caleb {
 ## 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=Calebfv&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" />
 </div>
 
 ---
