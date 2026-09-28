@@ -31,15 +31,7 @@
 
 ---
 
-### 📊 Actividad y Métricas
+### 📬 Contacto y Colaboraciones
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calebfv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebfv&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Langs" />
-</div>
-
----
-
-### 📬 Contacto
 - **Correo:** inventiwebcr@gmail.com
-- **Estado:** Abierto a colaboraciones técnicas y proyectos de desarrollo avanzado.
+- **Estado:** Disponible para proyectos de desarrollo avanzado, arquitectura de software y soluciones técnicas de alto rendimiento.
