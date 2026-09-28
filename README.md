@@ -21,26 +21,6 @@
 
 Ingeniero de software especializado en **sistemas de alto rendimiento y arquitectura backend**. Construyo software rápido, seguro y escalable, donde cada decisión técnica está pensada para el máximo rendimiento y la máxima confiabilidad: desde herramientas CLI hasta APIs y plataformas web de gran escala.
 
-```rust
-struct Caleb {
-    ubicacion: &'static str,
-    lenguajes: [&'static str; 6],
-    enfoque: &'static str,
-    disponible: bool,
-}
-
-impl Caleb {
-    fn new() -> Self {
-        Self {
-            ubicacion: "Costa Rica 🇨🇷",
-            lenguajes: ["Rust", "C++", "PHP", "Python", "TypeScript", "Bash"],
-            enfoque: "Correcto primero, rápido después, mantenible siempre",
-            disponible: true,
-        }
-    }
-}
-```
-
 - 🚀 Software de alto rendimiento: rápido, eficiente y seguro por diseño
 - ⚙️ Dominio de concurrencia, gestión de memoria y diseño de APIs
 - 🌎 Trabajo remoto desde Costa Rica para clientes exigentes
@@ -90,24 +70,6 @@ impl Caleb {
 - **Diseño simple y explícito:** menos magia, más código que se entiende a los seis meses.
 - **Automatizar lo repetitivo:** si lo hago dos veces, lo convierto en herramienta.
 - **Seguridad por defecto:** validación de entradas, manejo de errores y tipos fuertes.
-
----
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Calebfv&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" />
-</div>
-
----
-
-## 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| 🔧 **Nombre del proyecto** | Qué problema resuelve y qué lo hace especial | `Rust` `CLI` |
-| 🌐 **Nombre del proyecto** | Qué problema resuelve y qué lo hace especial | `PHP` `MySQL` |
-| ⚙️ **Nombre del proyecto** | Qué problema resuelve y qué lo hace especial | `Python` `Docker` |
 
 ---
 
