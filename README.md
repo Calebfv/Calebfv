@@ -27,6 +27,35 @@ Ingeniero de software especializado en **sistemas de alto rendimiento y arquitec
 
 ---
 
+## 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Calebfv/InvenTI_System">InvenTI System</a></h3>
+      <p><b>Plataforma web centralizada de gestión de inventarios y activos</b></p>
+      <p>Sistema diseñado para eliminar el control manual en hojas de cálculo, automatizando registros de stock y auditoría en tiempo real.</p>
+      <ul>
+        <li><b>Rol:</b> Desarrollo Full Stack completo y arquitectura.</li>
+        <li><b>Stack:</b> JavaScript, Node.js, Express, React, MySQL.</li>
+      </ul>
+      <p><a href="https://github.com/Calebfv/InvenTI_System">🔍 <b>Ver Caso de Estudio →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Calebfv/TaskFlow_CLI">TaskFlow CLI</a></h3>
+      <p><b>Herramienta de automatización de flujos de trabajo en línea de comandos</b></p>
+      <p>Utilidad orientada a la ejecución de pipelines de despliegue, automatización de tareas del sistema y respaldos sin errores manuales.</p>
+      <ul>
+        <li><b>Rol:</b> Arquitectura interna y scripts de automatización.</li>
+        <li><b>Stack:</b> Python, Bash, Rust, Node.js.</li>
+      </ul>
+      <p><a href="https://github.com/Calebfv/TaskFlow_CLI">🔍 <b>Ver Caso de Estudio →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 <p align="center">
