@@ -3,14 +3,14 @@
 # Caleb
 ### Systems Architect & Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Ingenier%C3%ADa+de+software+de+alto+rendimiento;Rust+%7C+C%2B%2B+%7C+PHP+%7C+Python+%7C+TypeScript;Sistemas+r%C3%A1pidos%2C+seguros+y+escalables;Arquitectura+backend+de+nivel+profesional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Ingenier%C3%ADa+de+software+de+alto+rendimiento;React+%7C+TypeScript+%7C+Node.js+%7C+Rust+%7C+PHP;Interfaces+r%C3%A1pidas+y+sistemas+escalables;Arquitectura+backend+y+frontend+profesional" alt="Typing SVG" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-Secure-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-Systems-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-Performance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Power_User-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Estado-Disponible-22C55E?style=for-the-badge" />
 
 </div>
@@ -19,10 +19,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero de software especializado en **sistemas de alto rendimiento y arquitectura backend**. Construyo software rápido, seguro y escalable, donde cada decisión técnica está pensada para el máximo rendimiento y la máxima confiabilidad: desde herramientas CLI hasta APIs y plataformas web de gran escala.
+Ingeniero de software especializado en **desarrollo full-stack, sistemas de alto rendimiento y arquitectura backend**. Construyo software rápido, seguro y escalable, cuidando cada detalle técnico y visual para ofrecer soluciones de nivel profesional: desde interfaces web interactivas hasta APIs robustas y automatizaciones.
 
-- 🚀 Software de alto rendimiento: rápido, eficiente y seguro por diseño
-- ⚙️ Dominio de concurrencia, gestión de memoria y diseño de APIs
+- 🚀 Interfaces rápidas y reutilizables con React, TypeScript y WordPress a medida
+- ⚙️ Arquitectura backend sólida con Node.js, PHP y bases de datos relacionales
+- 🦀 Sistemas de alto rendimiento y automatización con Rust, Python y Bash
 - 🌎 Trabajo remoto desde Costa Rica para clientes exigentes
 
 ---
@@ -59,16 +60,16 @@ Ingeniero de software especializado en **sistemas de alto rendimiento y arquitec
 ## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,php,py,ts,js,nodejs,express,react,mysql,docker,linux,bash,git,github,html,css,wordpress&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,php,wordpress,mysql,rust,cpp,py,js,docker,linux,bash,git,github,html,css&perline=9" alt="Tech Stack" />
 </p>
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **🦀 Sistemas** | **Rust**, **C++** · concurrencia, gestión de memoria, optimización |
-| **🌐 Backend** | **PHP**, Node.js, Express, MySQL · APIs REST, arquitecturas escalables |
+| **⚛️ Frontend & UI** | **React**, **TypeScript**, HTML5, CSS3, **WordPress** (Temas a medida) |
+| **🌐 Backend & Datos** | **Node.js**, Express, **PHP**, **MySQL** · APIs REST, bases de datos y consultas |
+| **🦀 Sistemas y Bajo Nivel** | **Rust**, C++, Go, Assembly · concurrencia, gestión de memoria, optimización |
 | **🐍 Automatización** | Python, Bash · herramientas CLI, scripting, pipelines |
-| **🎨 Frontend** | TypeScript, React, HTML5, CSS3, WordPress |
-| **🚀 DevOps** | Linux, Docker, Git/GitHub, redes y optimización de servidores |
+| **🚀 DevOps & Entorno** | Linux, Docker, Git/GitHub, Vite, Postman, Vercel, Netlify |
 
 ---
 
@@ -77,16 +78,16 @@ Ingeniero de software especializado en **sistemas de alto rendimiento y arquitec
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🦀 Sistemas de alto rendimiento</h3>
-      Rust y C++ para software donde la velocidad y la eficiencia son innegociables: concurrencia segura, consumo mínimo de recursos y latencia ultrabaja.
+      <h3>⚛️ Interfaces y Web a Medida</h3>
+      <p>Desarrollo de aplicaciones web y sitios interactivos con React y TypeScript, enfocados en velocidad, reutilización y diseño responsivo sin plantillas genéricas.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏗️ Arquitectura backend</h3>
-      PHP y Node.js para servicios sólidos: diseño de APIs, modelado de datos, manejo eficiente de bases de datos y escalabilidad.
+      <h3>🏗️ Arquitectura Backend & Datos</h3>
+      <p>Node.js, PHP y MySQL para servicios sólidos: diseño de APIs, modelado de datos relacionales, paneles de administración y control de métricas en vivo.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 Automatización & CLI</h3>
-      Python y Bash para construir utilidades a medida que eliminan tareas repetitivas y aceleran flujos de trabajo técnicos.
+      <h3>🦀 Sistemas & Automatización</h3>
+      <p>Rust, C++, Python y Bash para construir utilidades de alto rendimiento, optimización de recursos y flujos de trabajo técnicos automatizados.</p>
     </td>
   </tr>
 </table>
@@ -104,7 +105,7 @@ Ingeniero de software especializado en **sistemas de alto rendimiento y arquitec
 
 ## 🤝 Trabajemos juntos
 
-Disponible para **desarrollo avanzado, arquitectura de software y soluciones técnicas de alto rendimiento**.
+Disponible para **desarrollo web avanzado, paneles de administración, arquitectura de software y soluciones técnicas a medida**.
 
 <p align="center">
   <a href="mailto:inventiwebcr@gmail.com">
