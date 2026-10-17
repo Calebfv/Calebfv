@@ -32,10 +32,7 @@ Desarrollador full stack especializado principalmente en el desarrollo **Front-E
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/Calebfv/InvenTI_System">InvenTI System</a></h3>
       <p><b>Plataforma web centralizada de gestión de inventarios y activos</b></p>
-
-      <!-- Aclaración de confidencialidad -->
       <p>🔒 <i>Caso de estudio. El código fuente es privado por confidencialidad y propiedad intelectual; el repositorio documenta la arquitectura y módulos del sistema.</i></p>
-
       <p>Sistema diseñado para eliminar el control manual en hojas de cálculo, automatizando registros de stock y auditoría en tiempo real.</p>
       <ul>
         <li><b>Rol:</b> Desarrollo Full Stack completo y arquitectura.</li>
@@ -46,10 +43,7 @@ Desarrollador full stack especializado principalmente en el desarrollo **Front-E
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Calebfv/TaskFlow_CLI">TaskFlow CLI</a></h3>
       <p><b>Herramienta de automatización de flujos de trabajo en línea de comandos</b></p>
-
-      <!-- Aclaración de confidencialidad -->
       <p>🔒 <i>Caso de estudio. El código fuente es privado por confidencialidad y propiedad intelectual; el repositorio documenta la arquitectura y métricas de ejecución.</i></p>
-
       <p>Utilidad orientada a la ejecución de pipelines de despliegue, automatización de tareas del sistema y respaldos sin errores manuales.</p>
       <ul>
         <li><b>Rol:</b> Arquitectura interna y scripts de automatización.</li>
