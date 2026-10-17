@@ -17,11 +17,11 @@
 
 ### 👤 Sobre mí
 
-Desarrollador full stack enfocado principalmente en el desarrollo **Front-End**, creando interfaces interactivas, rápidas y cuidadas al detalle visualmente. Me adapto con facilidad al stack, lenguaje o herramientas que requiera cada cliente o proyecto.
+Desarrollador full stack especializado principalmente en el desarrollo **Front-End**, creando interfaces interactivas, rápidas y cuidadas al detalle visualmente. Construyo software seguro, escalable y con soluciones de nivel profesional, respaldado por lógica backend sólida cuando el proyecto lo requiere.
 
-* 🎨 **Interfaces rápidas y reutilizables:** React, TypeScript, HTML/CSS, Tailwind, WordPress a medida, entre otras tecnologías frontend.
-* ⚙️ **Arquitectura backend eficiente:** Node.js, Express, PHP, Python, REST APIs y bases de datos relacionales (MySQL, SQL).
-* 🚀 **Alto rendimiento y automatización:** Rust, C++, Bash scripting, Docker y herramientas CLI según el flujo de trabajo requerido.
+* 🎨 **Interfaces rápidas y reutilizables:** React, TypeScript, HTML/CSS, WordPress a medida, entre otras.
+* ⚙️ **Arquitectura backend eficiente:** Node.js, Express, PHP, REST APIs y bases de datos relacionales.
+* 🚀 **Sistemas de alto rendimiento y automatización:** Rust, Python, Bash scripting y herramientas CLI.
 
 ---
 
