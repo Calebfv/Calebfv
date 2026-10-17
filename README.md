@@ -17,11 +17,11 @@
 
 ### 👤 Sobre mí
 
-Desarrollador full stack enfocado principalmente en el desarrollo **Front-End**, creando interfaces interactivas, rápidas y cuidadas al detalle visualmente. Construyo experiencias de usuario fluidas a medida, respaldadas por lógica backend sólida y automatizaciones cuando el proyecto lo requiere.
+Desarrollador full stack enfocado principalmente en el desarrollo **Front-End**, creando interfaces interactivas, rápidas y cuidadas al detalle visualmente. Me adapto con facilidad al stack, lenguaje o herramientas que requiera cada cliente o proyecto.
 
-* 🎨 **Interfaces rápidas y reutilizables** con React, TypeScript y WordPress a medida.
-* ⚙️ **Arquitectura backend eficiente** con Node.js, Express, PHP y bases de datos relacionales.
-* 🚀 **Alto rendimiento y automatización** con Python, Rust y Bash.
+* 🎨 **Interfaces rápidas y reutilizables:** React, TypeScript, HTML/CSS, Tailwind, WordPress a medida, entre otras tecnologías frontend.
+* ⚙️ **Arquitectura backend eficiente:** Node.js, Express, PHP, Python, REST APIs y bases de datos relacionales (MySQL, SQL).
+* 🚀 **Alto rendimiento y automatización:** Rust, C++, Bash scripting, Docker y herramientas CLI según el flujo de trabajo requerido.
 
 ---
 
@@ -67,4 +67,4 @@ Desarrollador full stack enfocado principalmente en el desarrollo **Front-End**,
 ¿Tienes alguna consulta, idea de proyecto o necesitas desarrollo web a medida? Puedes ponernos en contacto para evaluar tu idea o prepararte una cotización sin compromiso.
 
 * 📬 **Correo:** <a href="mailto:inventiwebcr@gmail.com">inventiwebcr@gmail.com</a>
-* 🌐 **Portafolio:** <a href="https://caleb-profile.netlify.app/">caleb-profile.netlify.app</a>
+* 🌐 **Sitio Web Oficial:** <a href="https://caleb-profile.netlify.app/">caleb-profile.netlify.app</a>
