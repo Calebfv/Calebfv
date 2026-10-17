@@ -1,8 +1,8 @@
 <h1 align="center">Caleb</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Enfocado en Front-End</b><br>
-  <font color="#38bdf8"><b>Desarrollo web moderno y sistemas funcionales</b></font>
+  <b>Full-Stack Developer · Focused on Front-End</b><br>
+  <font color="#38bdf8"><b>Modern Web Development & Functional Systems</b></font>
 </p>
 
 <p align="center">
@@ -10,53 +10,53 @@
   <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
   <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/FRONTEND-PRIMARY-blue?style=for-the-badge" alt="Frontend"></a>
-  <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/ESTADO-DISPONIBLE-00C853?style=for-the-badge" alt="Estado"></a>
+  <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/STATUS-AVAILABLE-00C853?style=for-the-badge" alt="Status"></a>
 </p>
 
 <hr>
 
-### 👤 Sobre mí
+### 👤 About Me
 
-Desarrollador full stack especializado principalmente en el desarrollo **Front-End**, creando interfaces interactivas, rápidas y cuidadas al detalle visualmente. Construyo software seguro, escalable y con soluciones de nivel profesional, respaldado por lógica backend sólida cuando el proyecto lo requiere.
+Full-stack developer specializing primarily in **Front-End** development, crafting interactive, fast, and visually polished user interfaces. I build secure, scalable software and professional-grade solutions, backed by solid backend logic when required.
 
-* 🎨 **Interfaces rápidas y reutilizables:** React, TypeScript, HTML/CSS, WordPress a medida, entre otras.
-* ⚙️ **Arquitectura backend eficiente:** Node.js, Express, PHP, REST APIs y bases de datos relacionales.
-* 🚀 **Sistemas de alto rendimiento y automatización:** Rust, Python, Bash scripting y herramientas CLI.
+* 🎨 **Fast & Reusable Interfaces:** React, TypeScript, HTML/CSS, custom WordPress themes, among others.
+* ⚙️ **Efficient Backend Architecture:** Node.js, Express, PHP, REST APIs, and relational databases.
+* 🚀 **High-Performance Systems & Automation:** Rust, Python, Bash scripting, and CLI tools.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/Calebfv/InvenTI_System">InvenTI System</a></h3>
-      <p><b>Plataforma web centralizada de gestión de inventarios y activos</b></p>
-      <p>🔒 <i>Caso de estudio. El código fuente es privado por confidencialidad y propiedad intelectual; el repositorio documenta la arquitectura y módulos del sistema.</i></p>
-      <p>Sistema diseñado para eliminar el control manual en hojas de cálculo, automatizando registros de stock y auditoría en tiempo real.</p>
+      <p><b>Centralized web platform for inventory and asset management</b></p>
+      <p>🔒 <i>Case study. The source code is private due to confidentiality and intellectual property; the repository documents system architecture and functional modules.</i></p>
+      <p>System designed to eliminate manual spreadsheet tracking, automating real-time stock logging and auditing.</p>
       <ul>
-        <li><b>Rol:</b> Desarrollo Full Stack completo y arquitectura.</li>
+        <li><b>Role:</b> Full-Stack Development & Architecture.</li>
         <li><b>Stack:</b> JavaScript, Node.js, Express, React, MySQL.</li>
       </ul>
-      <p>🔍 <a href="https://github.com/Calebfv/InvenTI_System">Ver Caso de Estudio y Capturas →</a></p>
+      <p>🔍 <a href="https://github.com/Calebfv/InvenTI_System">View Case Study & Screenshots →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Calebfv/TaskFlow_CLI">TaskFlow CLI</a></h3>
-      <p><b>Herramienta de automatización de flujos de trabajo en línea de comandos</b></p>
-      <p>🔒 <i>Caso de estudio. El código fuente es privado por confidencialidad y propiedad intelectual; el repositorio documenta la arquitectura y métricas de ejecución.</i></p>
-      <p>Utilidad orientada a la ejecución de pipelines de despliegue, automatización de tareas del sistema y respaldos sin errores manuales.</p>
+      <p><b>Workflow automation command-line tool</b></p>
+      <p>🔒 <i>Case study. The source code is private due to confidentiality and intellectual property; the repository documents architecture and execution metrics.</i></p>
+      <p>Utility designed for deployment pipeline execution, system task automation, and error-free manual backups.</p>
       <ul>
-        <li><b>Rol:</b> Arquitectura interna y scripts de automatización.</li>
+        <li><b>Role:</b> Internal Architecture & Automation Scripts.</li>
         <li><b>Stack:</b> Python, Bash, Rust, Node.js.</li>
       </ul>
-      <p>🔍 <a href="https://github.com/Calebfv/TaskFlow_CLI">Ver Caso de Estudio y Capturas →</a></p>
+      <p>🔍 <a href="https://github.com/Calebfv/TaskFlow_CLI">View Case Study & Screenshots →</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,express,php,wordpress,mysql,rust,cpp,python,bash,docker,linux,vite,figma,vscode,netlify&perline=9" alt="Tech Stack" />
@@ -64,9 +64,9 @@ Desarrollador full stack especializado principalmente en el desarrollo **Front-E
 
 ---
 
-### 🤝 Trabajemos juntos
+### 🤝 Let's Connect
 
-¿Tienes alguna consulta, idea de proyecto o necesitas desarrollo web a medida? Puedes ponernos en contacto para evaluar tu idea o prepararte una cotización sin compromiso.
+Do you have any questions, a project idea, or need custom web development? Feel free to reach out to discuss your ideas or request a quote.
 
-* 📬 **Correo:** <a href="mailto:inventiwebcr@gmail.com">inventiwebcr@gmail.com</a>
-* 🌐 **Sitio Web Oficial:** <a href="https://caleb-profile.netlify.app/">caleb-profile.netlify.app</a>
+* 📬 **Email:** <a href="mailto:inventiwebcr@gmail.com">inventiwebcr@gmail.com</a>
+* 🌐 **Official Website:** <a href="https://caleb-profile.netlify.app/">caleb-profile.netlify.app</a>
