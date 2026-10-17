@@ -1,47 +1,70 @@
-<div align="center">
+<h1 align="center">Caleb</h1>
 
-# Caleb
+<p align="center">
+  <b>Full-Stack Developer · Enfocado en Front-End</b><br>
+  <font color="#38bdf8"><b>Desarrollo web moderno y sistemas funcionales</b></font>
+</p>
 
-### Full-Stack Developer · Enfocado en Front-End
+<p align="center">
+  <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+  <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/FRONTEND-PRIMARY-blue?style=for-the-badge" alt="Frontend"></a>
+  <a href="https://github.com/Calebfv"><img src="https://img.shields.io/badge/ESTADO-DISPONIBLE-00C853?style=for-the-badge" alt="Estado"></a>
+</p>
 
-[![Status](https://img.shields.io/badge/Estado-Disponible-brightgreen?style=flat-square)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Calebfv-blue?style=flat-square&logo=github)](https://github.com/Calebfv)
+<hr>
 
-</div>
+### 👤 Sobre mí
 
----
+Desarrollador full stack enfocado principalmente en el desarrollo **Front-End**, creando interfaces interactivas, rápidas y cuidadas al detalle visualmente. Construyo experiencias de usuario fluidas a medida, respaldadas por lógica backend sólida y automatizaciones cuando el proyecto lo requiere.
 
-### Sobre mí
-
-Desarrollador full stack especializado principalmente en el desarrollo **Front-End**, creando interfaces interactivas, rápidas y atractivas visualmente. Cuidado en cada detalle técnico para ofrecer experiencias de usuario fluidas, respaldadas por soluciones robustas cuando se requiere lógica de backend.
+* 🎨 **Interfaces rápidas y reutilizables** con React, TypeScript y WordPress a medida.
+* ⚙️ **Arquitectura backend eficiente** con Node.js, Express, PHP y bases de datos relacionales.
+* 🚀 **Alto rendimiento y automatización** con Python, Rust y Bash.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-* **InvenTI System**
-  * *Plataforma web centralizada de gestión de inventarios y activos.*
-  * **Stack:** JavaScript, Node.js, Express, React, MySQL.
-  * [Ver casos de estudio / capturas en GitHub](https://github.com/Calebfv/InvenTI_System)
-
-* **TaskFlow CLI**
-  * *Herramienta de automatización de flujos de trabajo en línea de comandos.*
-  * **Stack:** Python, Bash, Node.js.
-  * [Ver casos de estudio / capturas en GitHub](https://github.com/Calebfv/TaskFlow_CLI)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Calebfv/InvenTI_System">InvenTI System</a></h3>
+      <p><b>Plataforma web centralizada de gestión de inventarios y activos</b></p>
+      <p>Sistema diseñado para eliminar el control manual en hojas de cálculo, automatizando registros de stock y auditoría en tiempo real.</p>
+      <ul>
+        <li><b>Rol:</b> Desarrollo Full Stack completo y arquitectura.</li>
+        <li><b>Stack:</b> JavaScript, Node.js, Express, React, MySQL.</li>
+      </ul>
+      <p>🔍 <a href="https://github.com/Calebfv/InvenTI_System">Ver Caso de Estudio →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Calebfv/TaskFlow_CLI">TaskFlow CLI</a></h3>
+      <p><b>Herramienta de automatización de flujos de trabajo en línea de comandos</b></p>
+      <p>Utilidad orientada a la ejecución de pipelines de despliegue, automatización de tareas del sistema y respaldos sin errores manuales.</p>
+      <ul>
+        <li><b>Rol:</b> Arquitectura interna y scripts de automatización.</li>
+        <li><b>Stack:</b> Python, Bash, Rust, Node.js.</li>
+      </ul>
+      <p>🔍 <a href="https://github.com/Calebfv/TaskFlow_CLI">Ver Caso de Estudio →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-* **Frontend & UI:** React, TypeScript, HTML, CSS, JavaScript
-* **Backend & Bases de Datos:** Node.js, Express, PHP, WordPress, MySQL
-* **Sistemas & Herramientas:** Python, Bash, Rust, Git, Linux
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,express,php,wordpress,mysql,rust,cpp,python,bash,docker,linux,vite,figma,vscode,netlify&perline=9" alt="Tech Stack" />
+</p>
 
 ---
 
 ### 🤝 Trabajemos juntos
 
-¿Tienes alguna consulta, idea de proyecto o necesitas ayuda con desarrollo web? Puedes ponerte en contacto conmigo para platicar sobre lo que necesites y cotizar tu proyecto.
+¿Tienes alguna consulta, idea de proyecto o necesitas desarrollo web a medida? Puedes ponernos en contacto para evaluar tu idea o prepararte una cotización sin compromiso.
 
-* **Correo:** [inventiwebcr@gmail.com](mailto:inventiwebcr@gmail.com)
-* **Portafolio:** [caleb-profile.netlify.app](https://caleb-profile.netlify.app/)
+* 📬 **Correo:** <a href="mailto:inventiwebcr@gmail.com">inventiwebcr@gmail.com</a>
+* 🌐 **Portafolio:** <a href="https://caleb-profile.netlify.app/">caleb-profile.netlify.app</a>
